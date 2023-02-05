@@ -1,2 +1,2 @@
-# ZigZag-Scripts
+# ZigZag Game
 ZigZag Game Scripts
